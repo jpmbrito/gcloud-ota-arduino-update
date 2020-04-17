@@ -1,5 +1,5 @@
 steps:
-- name: 'sglahn/platformio-core:latest'  
+- name: 'sglahn/docker-platformio-core:latest'  
   dir: .
   args: ['run']  
 artifacts: 
